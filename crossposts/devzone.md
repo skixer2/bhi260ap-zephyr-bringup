@@ -27,4 +27,4 @@ bhy2: boot_status -> 0x11 → 0x13     (hub running)
 Full case study + code: https://github.com/skixer2/bhi260ap-zephyr-bringup
 Upstream issue: https://github.com/zephyrproject-rtos/zephyr/issues/121051
 
-— Jean-Paul Voyat (investigation executed with OpenClaw running GLM 5.3, Z.ai)
+— Jean Paul Voyat (investigation executed with OpenClaw running GLM 5.3, Z.ai)

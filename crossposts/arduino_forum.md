@@ -20,4 +20,4 @@ Bonus if you flash Arduino hexes via OpenOCD: app hexes link above the bootloade
 Full case study with the debugging log (Arduino-side bisection sketches included — they boot the hub via mbed, then bit-bang the same bus to isolate the fault):
 https://github.com/skixer2/bhi260ap-zephyr-bringup
 
-— Jean-Paul Voyat (investigation executed with OpenClaw running GLM 5.3, Z.ai)
+— Jean Paul Voyat (investigation executed with OpenClaw running GLM 5.3, Z.ai)

@@ -92,7 +92,7 @@ per-device select lines).
 
 ---
 
-*Author: **Jean-Paul Voyat** — investigation executed with
+*Author: **Jean Paul Voyat** — investigation executed with
 [OpenClaw](https://openclaw.ai) running **GLM 5.3** (Z.ai), on the
 bench of the [ski-gate-chrono](https://github.com/jean-paul-voyat) project.
 License: CC-BY-4.0 (text), MIT (code snippets).*
